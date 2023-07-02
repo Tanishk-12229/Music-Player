@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to [Your Repository Name]! This repository hosts an exceptional music player project that I've built using HTML, CSS, and JavaScript. This project aims to enhance your music experience by providing a user-friendly interface, advanced functionalities, and seamless integration with your favorite tunes.
+Welcome Guys ! This repository hosts an exceptional music player project that I've built using HTML, CSS, and JavaScript. This project aims to enhance your music experience by providing a user-friendly interface, advanced functionalities, and seamless integration with your favorite tunes.
 
 ## Features
 
